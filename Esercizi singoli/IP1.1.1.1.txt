@@ -3,6 +3,7 @@ Classe = A
 00000001.00000001.00000001.0000001
 CIDR = 8
 Host = 1.1.1
+Gateway convenzionale = 1.1.1.2
 Subnet Mask = 255.0.0.0 
 // 11111111.00000000.00000000.00000000
 11111111  // Bloccati i primi 8 bit (1 byte)
